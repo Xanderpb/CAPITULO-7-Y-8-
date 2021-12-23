@@ -45,10 +45,23 @@ No existe resistencia por lo tanto la corriente es 0.
 ![voltaje,v1,0](https://user-images.githubusercontent.com/93224166/147187612-e5fd0889-8e7c-4b1f-ad3c-0f280755b203.png)
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
+###  Mediciones cuando V2=0
+![VOLTAJE1](https://user-images.githubusercontent.com/93224166/147249517-d47c57ae-b714-41f7-ad08-c73c79c12248.png)
 
-![LAB 4 PRT A](https://user-images.githubusercontent.com/93951775/147198880-1769e365-c4ca-4d5f-aff2-ba2fc126d31c.JPG)
+![calculo1](https://user-images.githubusercontent.com/93224166/147250619-8234b109-67ad-40fc-a218-23a463a876c6.png)
 
-![LAB 4 PRT B](https://user-images.githubusercontent.com/93951775/147198892-ed8926f3-2d18-49fb-a5fe-a1805a1f1277.JPG)
+### Mediciones cuando V1=0
+![VOLTAJE2](https://user-images.githubusercontent.com/93224166/147249519-cb2017f6-1d9a-4acf-b46e-e43747850d9d.png)
+![calculo2 1](https://user-images.githubusercontent.com/93224166/147251931-cf971772-83fa-4145-99f5-0ca246768b44.png)
+![AMPERAJE2](https://user-images.githubusercontent.com/93224166/147249512-2d9d67dd-5326-46b8-9996-14d24ad5728b.png)
+![calculo2](https://user-images.githubusercontent.com/93224166/147249514-78e6e1ec-1cf7-4acd-9a30-c4fdc03410e4.png)
+### Sumatoria total.
+![CALCULOTOTAL](https://user-images.githubusercontent.com/93224166/147251908-11d22c7f-3dc6-45f2-b5c6-198b5db517f4.png)
+
+
+
+### Calculo del error
+![calculodeerror](https://user-images.githubusercontent.com/93224166/147249515-427fe572-1465-430f-9eee-920ad6188ad7.png)
 
 ![LAB 4 TAB 1](https://user-images.githubusercontent.com/93951775/147201688-15e53b1f-6097-426d-a939-981efd15fffb.JPG)
 
@@ -80,12 +93,6 @@ https://youtu.be/BfYEsmPYU9Q
 •	Se adquirió un nuevo concepto para qué es el teorema de superposición empleado en los circuitos eléctricos tanto por sus características y aplicaciones.
 
 
-
-
-
-
-
-* 
 ## 6. Bibliografia
 FLOYD, THOMAS L.
 Principios de circuitos eléctricos. Octava edición
