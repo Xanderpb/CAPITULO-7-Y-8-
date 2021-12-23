@@ -51,10 +51,12 @@ No existe resistencia por lo tanto la corriente es 0.
 ![calculo1](https://user-images.githubusercontent.com/93224166/147250619-8234b109-67ad-40fc-a218-23a463a876c6.png)
 
 ### Mediciones cuando V1=0
-![VOLTAJE2](https://user-images.githubusercontent.com/93224166/147249519-cb2017f6-1d9a-4acf-b46e-e43747850d9d.png)
-![calculo2 1](https://user-images.githubusercontent.com/93224166/147251931-cf971772-83fa-4145-99f5-0ca246768b44.png)
 ![AMPERAJE2](https://user-images.githubusercontent.com/93224166/147249512-2d9d67dd-5326-46b8-9996-14d24ad5728b.png)
 ![calculo2](https://user-images.githubusercontent.com/93224166/147249514-78e6e1ec-1cf7-4acd-9a30-c4fdc03410e4.png)
+![VOLTAJE2](https://user-images.githubusercontent.com/93224166/147249519-cb2017f6-1d9a-4acf-b46e-e43747850d9d.png)
+![calculo2 1](https://user-images.githubusercontent.com/93224166/147251931-cf971772-83fa-4145-99f5-0ca246768b44.png)
+
+
 ### Sumatoria total.
 ![CALCULOTOTAL](https://user-images.githubusercontent.com/93224166/147251908-11d22c7f-3dc6-45f2-b5c6-198b5db517f4.png)
 
