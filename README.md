@@ -48,4 +48,7 @@
 ## 4. Video
 
 ## 5. Conclusiones
+* 
 ## 6. Bibliografia
+FLOYD, THOMAS L.
+Principios de circuitos eléctricos. Octava edición
