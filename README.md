@@ -65,7 +65,10 @@ No existe resistencia por lo tanto la corriente es 0.
 •	Se demostró que las leyes de Kirchhoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
 
 
-•	
+•	la tension esta dada por la suma de las contribuciones de cada fuente independiente
+
+
+
 •	Se concluye que los teoremas realizados en el laboratorio serán de gran utilidad en posteriores aplicaciones prácticas.
 
 
