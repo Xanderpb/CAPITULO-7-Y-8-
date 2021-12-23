@@ -45,6 +45,11 @@ No existe resistencia por lo tanto la corriente es 0.
 ![voltaje,v1,0](https://user-images.githubusercontent.com/93224166/147187612-e5fd0889-8e7c-4b1f-ad3c-0f280755b203.png)
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
+
+![LAB 4 PRT A](https://user-images.githubusercontent.com/93951775/147198880-1769e365-c4ca-4d5f-aff2-ba2fc126d31c.JPG)
+
+![LAB 4 PRT B](https://user-images.githubusercontent.com/93951775/147198892-ed8926f3-2d18-49fb-a5fe-a1805a1f1277.JPG)
+
 ## 4. Video
 
 ## 5. Conclusiones
