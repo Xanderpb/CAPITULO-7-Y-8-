@@ -59,10 +59,20 @@ No existe resistencia por lo tanto la corriente es 0.
 ## 5. Conclusiones
 
 
-•	Con el teorema de superposición concluimos que es válido, ya que la tensión entre la corriente de un elemento en un circuito lineal es la suma algebraica de las corrientes o tensiones a través de ese elemento debido a que cada fuente independiente actúa sola.
+•	Con el teorema de superposición concluimos que es válido, ya que la tensión entre la corriente de un elemento en un circuito lineal es la suma algebraica de las corrientes o tensiones a través de ese elemento debido a que cada fuente independiente actúa sola
+
+
 •	Se demostró que las leyes de Kirchhoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
+
+
 •	
 •	Se concluye que los teoremas realizados en el laboratorio serán de gran utilidad en posteriores aplicaciones prácticas.
+
+
+•	Sugerimos acordarse para calcular el voltaje de una región se le conecta al circuito directamente y para calcular la intensidad se debe tratar al multímetro como un elemento del circuito y conectarle en serie.
+
+
+
 •	Se adquirió un nuevo concepto para qué es el teorema de superposición empleado en los circuitos eléctricos tanto por sus características y aplicaciones.
 
 
