@@ -50,6 +50,10 @@ No existe resistencia por lo tanto la corriente es 0.
 
 ![LAB 4 PRT B](https://user-images.githubusercontent.com/93951775/147198892-ed8926f3-2d18-49fb-a5fe-a1805a1f1277.JPG)
 
+![LAB 4 TAB 1](https://user-images.githubusercontent.com/93951775/147201688-15e53b1f-6097-426d-a939-981efd15fffb.JPG)
+
+![LAB 4 TAB 2](https://user-images.githubusercontent.com/93951775/147201708-81542fc8-e8dc-499b-8704-5fcd72a39878.JPG)
+
 ## 4. Video
 
 ## 5. Conclusiones
