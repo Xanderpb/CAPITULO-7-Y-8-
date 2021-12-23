@@ -63,8 +63,9 @@ No existe resistencia por lo tanto la corriente es 0.
 
 
 ### Calculo del error
-![calculodeerror](https://user-images.githubusercontent.com/93224166/147249515-427fe572-1465-430f-9eee-920ad6188ad7.png)
+![calculodeerror](https://user-images.githubusercontent.com/93224166/147252726-a9fe7cd3-1d91-4ac7-89e4-99e89a12fd8f.png)
 
+### Completacion de tablas
 ![LAB 4 TAB 1](https://user-images.githubusercontent.com/93951775/147201688-15e53b1f-6097-426d-a939-981efd15fffb.JPG)
 
 ![LAB 4 TAB 2](https://user-images.githubusercontent.com/93951775/147201708-81542fc8-e8dc-499b-8704-5fcd72a39878.JPG)
