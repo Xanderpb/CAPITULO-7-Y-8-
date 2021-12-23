@@ -55,6 +55,7 @@ No existe resistencia por lo tanto la corriente es 0.
 ![LAB 4 TAB 2](https://user-images.githubusercontent.com/93951775/147201708-81542fc8-e8dc-499b-8704-5fcd72a39878.JPG)
 
 ## 4. Video
+https://youtu.be/BfYEsmPYU9Q
 
 ## 5. Conclusiones
 
