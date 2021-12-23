@@ -25,17 +25,17 @@
 
 ### Mediciones generales
 #### Corriente Ix
-![amperecompleto](https://user-images.githubusercontent.com/93224166/147187616-f67f99bb-3060-404e-825b-173af3260276.png)
+![amperecompleto](https://user-images.githubusercontent.com/93224166/147189369-cb26e1eb-3fd4-4997-8e69-4b66b32eef78.png)
 
 #### Voltaje Va
 ![voltajecompleto](https://user-images.githubusercontent.com/93224166/147187617-8b922e1d-9885-4554-bc59-c1c527758481.png)
 
 ### Mediciones cuando V2=0
 #### Voltaje Va
-![voltaje,v2,0](https://user-images.githubusercontent.com/93224166/147187618-51354133-8f79-4723-82e6-be20fb0a9af1.png)
+![voltaje,v2,0](https://user-images.githubusercontent.com/93224166/147189921-84200b72-5ed8-43dc-a2d5-728ed6593754.png)
 
 #### Corriente Ix
-![amperaje,v2,0](https://user-images.githubusercontent.com/93224166/147187619-e2d5a9c8-74df-4b48-b496-a1f8ba26ddc1.png)
+No existe resistencia por lo tanto la corriente es 0.
 
 ### Mediciones cuando V1=0
 #### Corriente Ix
